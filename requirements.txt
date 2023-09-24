@@ -2,7 +2,7 @@
    
 
    
-# pip install -r requirements.txt
+pip install -r requirements.txt
 
 # Base ----------------------------------------
 pandas>=1.1.4
